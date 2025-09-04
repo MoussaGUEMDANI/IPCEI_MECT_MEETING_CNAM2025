@@ -1,3 +1,3 @@
-![CNAM LOGO](pics/logo-le-cnam.jpeg)
+![CNAM LOGO](pics/cnam_logo.png)
 
 Welcome! This page serves as the central hub for our demo, where you’ll find all the essential resources and instructions consolidated for the session.
