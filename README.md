@@ -1,11 +1,10 @@
-<img src="pics/logo‑le‑cnam.jpeg" alt="CNAM logo" width="200"> 
-#![CNAM LOGO](pics/cnam_logo.png)
+![CNAM LOGO](pics/cnam_logo.png)
 
 Welcome! This page serves as the central hub for our demo, where you’ll find all the essential resources and instructions consolidated for the session.
 
 
 ## Repository Clone
-git clone https://github.com/MoussaGUEMDANI/IPCEI_MECT_MEETING_CNAM2025.git
+Run 'git clone https://github.com/MoussaGUEMDANI/IPCEI_MECT_MEETING_CNAM2025.git'
 
 ## Hardware Requirements
 
