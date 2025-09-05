@@ -24,6 +24,8 @@ git clone https://github.com/MoussaGUEMDANI/IPCEI_MECT_MEETING_CNAM2025.git
 3. OpenAirInterface (latest release)
 4. Open5GS (latest release) (5G Core)
 5. docker
+6. UHD 6.0.0.0 minimum
+7. MATLAB
 
 ## Tools
 
@@ -66,3 +68,15 @@ git clone https://github.com/open5gs/open5gs.git
 
 ## 3. Build and Install OpenAirInterface (OAI)
 
+```bash
+# Get openairinterface source code
+git clone https://gitlab.eurecom.fr/oai/openairinterface5g.git ~/openairinterface5g
+cd ~/openairinterface5g
+git checkout develop
+
+# Install OAI dependencies
+cd ~/openairinterface5g/cmake_targets
+
+# Build OAI gNB
+./build_oai -w USRP --ninja --gNB -C --UE --gNB --nrUE -w SIMU --build_libs all 
+```
