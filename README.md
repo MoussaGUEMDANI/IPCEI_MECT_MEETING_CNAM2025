@@ -1,4 +1,4 @@
-![CNAM LOGO](pics/cnam_logo.png)
+![CNAM LOGO](images/cnam_logo.png)
 
 Welcome! This page serves as the central hub for our demo, where you’ll find all the essential resources and instructions consolidated for the session.
 
@@ -23,7 +23,14 @@ git clone https://github.com/MoussaGUEMDANI/IPCEI_MECT_MEETING_CNAM2025.git
 2. srsRAN Project (latest release)
 3. OpenAirInterface (latest release)
 4. Open5GS (latest release) (5G Core)
-5. Monitoring tools (Grafana, InfluxDB, Telegraf)
+5. docker
+
+## Tools
+
+1. Monitoring tools (Grafana, InfluxDB, Telegraf)
+2. tmux
+3. ifstat
+4. iperf3
 
 ## What do we cover in the demo?
 
@@ -55,7 +62,7 @@ git clone https://github.com/open5gs/open5gs.git
 
 ##  
 
-## Build and Install srsRAN Project 
+## 2. Build and Install srsRAN Project 
 
-## 3.Build and Install OpenAirInterface (OAI)
+## 3. Build and Install OpenAirInterface (OAI)
 
