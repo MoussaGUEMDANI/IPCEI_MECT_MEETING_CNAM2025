@@ -4,7 +4,10 @@ Welcome! This page serves as the central hub for our demo, where you’ll find a
 
 
 ## Repository Clone
-Run 'git clone https://github.com/MoussaGUEMDANI/IPCEI_MECT_MEETING_CNAM2025.git'
+
+```bash 
+git clone https://github.com/MoussaGUEMDANI/IPCEI_MECT_MEETING_CNAM2025.git
+```
 
 ## Hardware Requirements
 
